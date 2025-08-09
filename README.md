@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">Data Analytics Enthusiast | Skilled in SQL, Excel, Python & Power BI for end-to-end data solutions.</h3>
+<h3 align="center">Data Analyst | Skilled in SQL, Excel, Python & Power BI
+Turning raw data into actionable insights through data cleaning, analysis, and visualization. Experienced in building interactive dashboards, writing complex queries, and delivering data-driven solutions across multiple domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal06-tech&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal06-tech" /> </p>
 
