@@ -1,5 +1,10 @@
-[![MasterHead](https://upthrust.co/wp-content/uploads/2024/09/1695135976530.png)](https://upthrust.co/2024/09/why-data-analytics-is-growing-as-a-potential-career-for-business-students)
-
+<!-- Full-width hero with max width so it doesn't overflow on mobile -->
+<div align="center">
+  <img 
+    src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040676/Linkedin_Cover_-_Data_Analyst_cb4umx.png" 
+    alt="MasterHead - Data Analyst" 
+    style="width:100%; max-width:1100px; height:auto; border-radius:6px;"/>
+</div>
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
 <h3 align="center">Data Analyst | Skilled in SQL, Excel, Python & Power BI
 Turning raw data into actionable insights through data cleaning, analysis, and visualization. Experienced in building interactive dashboards, writing complex queries, and delivering data-driven solutions across multiple domains.</h3>
