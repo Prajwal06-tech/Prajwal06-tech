@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
 <h3 align="center">Data Analyst | Skilled in SQL, Excel, Python & Power BI
 Turning raw data into actionable insights through data cleaning, analysis, and visualization. Experienced in building interactive dashboards, writing complex queries, and delivering data-driven solutions across multiple domains.</h3>
+<img align="right" src="https://www.adgility.com.au/hs-fs/hubfs/advanced-insights-analystics-reporting-GIF.gif?width=1780&height=1080&name=advanced-insights-analystics-reporting-GIF.gif" width="400" alt="Data Analyst GIF">
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal06-tech&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal06-tech" /> </p>
 
@@ -8,9 +14,17 @@ Turning raw data into actionable insights through data cleaning, analysis, and v
 
 - 📫 How to reach me **prajwalashok06@gmail.com**
 
+- 💬 Ask me about **Data Cleaning & Transformation, Building Interactive Dashboards, Writing Complex SQL Queries, Automating Reports, Business Insights from Data.**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/prajwal-ashok/" target="_blank" rel="noreferrer">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+  </a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
