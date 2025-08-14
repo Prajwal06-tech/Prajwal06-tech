@@ -6,7 +6,7 @@
     style="width:100%; max-width:1100px; height:auto; border-radius:6px;"/>
 </div>
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">Data Analyst | Skilled in SQL, Excel, Python & Power BI
+<h3 align="center">Business & Data Analyst | Skilled in SQL, Excel, Python & Power BI
 Turning raw data into actionable insights through data cleaning, analysis, and visualization. Experienced in building interactive dashboards, writing complex queries, and delivering data-driven solutions across multiple domains.</h3>
 <img align="right" src="https://www.adgility.com.au/hs-fs/hubfs/advanced-insights-analystics-reporting-GIF.gif?width=1780&height=1080&name=advanced-insights-analystics-reporting-GIF.gif" width="400" alt="Data Analyst GIF">
 
